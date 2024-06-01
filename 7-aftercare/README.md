@@ -1,13 +1,13 @@
 # EOEX Hello World Project
 
-This is the project charter document for this project.
+This is the project charter document for the AFTERCARE domain of this project.
 It aims to highlight the roadmap to implementing this project.
 
 ## Description
 
 The Hello World project from EOEX aims to create a simple application that displays "Hello World" on the screen.
 
-This project, however will be developed by various teams and people in order to simulate a real life scenario.
+This project domain aims to document and produce change request candidates for the optimization of the application.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ The project milestones are:
 4. QA <input type="checkbox" unchecked />
 5. Release <input type="checkbox" unchecked />
 6. Delivery <input type="checkbox" unchecked />
-7. Aftercare  <input type="checkbox" unchecked />
+7. Aftercare  <input type="checkbox" checked />
 
 ### Dependencies
 
@@ -42,7 +42,7 @@ Contributors names and contact info
 
 Client Team
 * Stakeholder
-* End User
+* End User  <input type="checkbox" checked />
 
 Consultancy Team
 * Account Manager
