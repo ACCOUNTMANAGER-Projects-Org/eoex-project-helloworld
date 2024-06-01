@@ -42,7 +42,7 @@ Contributors names and contact info
 
 Client Team
 * Stakeholder
-* End User
+* End User  <input type="checkbox" checked />
 
 Consultancy Team
 * Account Manager
