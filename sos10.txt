@@ -7,3 +7,5 @@ and the functional consultant
 and the developer
 
 and the release manager
+
+and the support manager
