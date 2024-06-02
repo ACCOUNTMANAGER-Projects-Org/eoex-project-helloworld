@@ -11,6 +11,8 @@ This project, however will be developed by various teams and people in order to 
 
 ## Getting Started
 
+[CHANGED] This is a message from Sosthene
+
 The project milestones are:
 1. Discovery  <input type="checkbox" unchecked />
 2. Design <input type="checkbox" unchecked />
