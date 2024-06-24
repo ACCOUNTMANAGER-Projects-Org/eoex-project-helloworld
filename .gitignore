@@ -1,0 +1,19 @@
+# ignore all files in 
+# bin
+bin/
+# build
+build/
+# config
+config/
+# dep
+dep/
+# res
+res/
+# sample
+sample/
+# test
+test/
+# tools
+tools/
+# project archive
+8-Archive/
